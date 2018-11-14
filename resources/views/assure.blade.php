@@ -7,7 +7,7 @@
             <img src="{{asset('images/logo.png')}}" style="height: 90px;">
         </div>
         <div class="col-lg-2 col-lg-offset-8">
-            <img src="{{asset('images/star.png')}}" style="height: 90px;">
+            <img src="{{asset('images/star.png')}}" style="height: 89px;">
         </div>
     </div>
     <nav class="navbar navbar-default">
